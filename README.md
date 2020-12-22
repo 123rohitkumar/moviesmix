@@ -1,2 +1,2 @@
 # moviesmix
-store movie data with for validation and admin customization
+store movie data with form validation and admin customization.
